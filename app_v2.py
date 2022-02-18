@@ -4,7 +4,7 @@ import pandas as pd
 
 # Read in global data
 #cars = data.cars()
-penguins = pd.read_csv('data/penguins.csv')
+penguins = pd.read_csv('penguins.csv')
 
 
 # Setup app and layout/frontend
